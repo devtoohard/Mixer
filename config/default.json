@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://shawn:Spring2020!@cluster0-mqofn.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "bb60318d65827cec97bf",
+    "githubSecret": "34d7fb7a762dbc9b264da3c350ce244a4e0a46f9"
+}
